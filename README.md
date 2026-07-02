@@ -96,14 +96,4 @@ This project was developed to gain practical experience in:
 
 ---
 
-## 👨‍💻 Team Members
-
-| Name | Student ID |
-|------|------------|
-| Kaung Khant Lwin | 6703114 |
-| **Min Sitt Paing Oo** | 6704524 |
-| Thura Hein | 6704639 |
-
----
-
 **Academic Project** • Developed as part of a university coursework assignment.
