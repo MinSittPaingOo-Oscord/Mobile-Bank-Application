@@ -57,6 +57,15 @@ Backend/
 
 ---
 
+## 🌐 Live API
+
+The backend REST API is deployed on Vercel.
+
+**Base URL**
+
+```text
+https://bank-api-mobile-project.vercel.app/
+```
 ## 📡 REST API Endpoints
 
 | Method | Endpoint | Description |
