@@ -1,4 +1,4 @@
-# 💳 Mobile Banking System
+# 💳 Mobile Banking Application
 
 A mobile banking application developed using **Flutter** with a **Node.js & Express.js REST API** and **TiDB Cloud (MySQL)** database. The project demonstrates full-stack mobile application development by integrating a Flutter frontend with a cloud-hosted backend to perform basic banking operations.
 
